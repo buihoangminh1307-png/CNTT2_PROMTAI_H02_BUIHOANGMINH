@@ -103,6 +103,9 @@ Hãy suy luận từng bước theo từng yêu cầu theo thứ tự tiền ng�
 ```text
 Bạn là nhân viên phân loại khiếu nại của Đất Việt Workshop. Hãy đọc email khiếu nại trong thẻ <email> và chỉ trả về một số đối tượng JSON gồm đúng 4 trường: 
 {"loai_su_co": một trong "hong_san_pham" | "giao_tre" | "huong_dan" | "khac", "so_khach": số nguyên, "so_san_pham_bi_hong": số nguyên hoặc null, "tom_tat": "không quá 20 từ"}
+Email khieu nai:
+Gia đình tôi 3 người học lớp nặn gốm ngày 01/11/2026, mỗi người làm 2 sản phẩm và đã trả phí nung, giao sản phẩm. Khi nhận hàng, có 5 sản phẩm bị nứt vỡ. Cô hướng dẫn rất nhiệt tình, tôi không có gì phàn nàn về người hướng dẫn. Tôi đề nghị xưởng giải quyết thỏa đáng.
+
 
 ```
 
